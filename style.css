@@ -1,0 +1,114 @@
+body {
+  background-color: #DDD8C4;
+  color: #003049;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Potta One', cursive;
+}
+
+h1 {
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+h3 {
+  font_size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#profile_picture {
+  width: 150px;
+  border-radius: 50%;
+  border: 5px solid yellow;
+  margin-top: 13vh;
+}
+
+.top_picture {
+  height:35vh;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+#step0 {
+height:25vh;
+margin: 0 0;
+align-content: center;
+color: #3C1518;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.empty {
+  height: 15vh;
+}
+
+.steps p {
+  margin: 0 0;
+  text-align: 100px;
+  height: 75vh;
+  align-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link_website {
+  font-size:50px;
+  margin: 0 0;
+  text-align: 100px;
+  height: 75vh;
+  align-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+}
+
+#dont_click:hover {
+  color: green;
+}
+
+#step1 {
+background-color: #a3c9a8;
+color:#69140e;
+}
+
+#step2 {
+  background-color: #84b59f;
+  color:#69140e;
+}
+
+#step3 {
+  background-color: #69a297;
+  color: #a44200;
+}
+
+#step4 {
+  background-color: #50808e;
+  color: #d58936;
+  /* color:#f2f3ae; */
+}
+#step5 {
+  background-color: #003049;
+  color: #f2f3ae;
+}
+
+.social_media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 50px;
+  color: #003049;
+  list-style-type: none;
+  }
+
+ul a li i {
+  padding: 10px;
+  color: #003049;
+}
